@@ -1,0 +1,4 @@
+interface:
+  display_name: "Driva Debug"
+  short_description: "Orquestra diagnósticos entre serviços Driva"
+  default_prompt: "Use $driva-debug para investigar este ticket da Driva e correlacionar evidências entre os serviços envolvidos."
